@@ -1,4 +1,4 @@
-![MasterHead](https://github.com/harryzafar/harryzafar/blob/main/git_banner.jpg)
+![MasterHead](https://github.com/harryzafar/harryzafar/blob/main/git_banner0.jpg)
 <h1 align="center">Hi 👋, I'm Zafar Husain</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 <img align = "right" alt="coding" width="400"src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
